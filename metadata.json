@@ -1,0 +1,5 @@
+{
+  "name": "Classic Talent Calculator",
+  "description": "A World of Warcraft Classic style talent tree calculator built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
